@@ -1,6 +1,7 @@
 'use strict';
 
 var rawData = [
+  {"author":"","authorUrl":"","title":"kjghkjgh","category":"","body":"<p>kjgkjg</p>\n","publishedOn":{"length":0,"prevObject":{"0":{"location":{"hash":"","search":"","pathname":"/new.html","port":"8080","hostname":"127.0.0.1","host":"127.0.0.1:8080","protocol":"http:","origin":"http://127.0.0.1:8080","href":"http://127.0.0.1:8080/new.html","ancestorOrigins":{}}},"length":1}},"daysAgo":null,"publishStatus":"published NaN days ago"} ,
   {
     title:       'Bacon Ipsum',
     category:    'food',
